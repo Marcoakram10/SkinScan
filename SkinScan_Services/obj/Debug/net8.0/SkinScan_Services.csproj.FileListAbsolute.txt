@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\bin\Debug\net8.0\SkinScan_Services.deps.json
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\bin\Debug\net8.0\SkinScan_Services.dll
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\bin\Debug\net8.0\SkinScan_Services.pdb
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\SkinScan_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\SkinScan_Services.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\SkinScan_Services.AssemblyInfo.cs
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\SkinScan_Services.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\SkinScan_Services.dll
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\refint\SkinScan_Services.dll
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\SkinScan_Services.pdb
+C:\Users\hp\Desktop\SkinScan-master\SkinScan_Services\obj\Debug\net8.0\ref\SkinScan_Services.dll
